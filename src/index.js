@@ -1,10 +1,9 @@
 import "./styles.css";
+import "./DNAFeaturesGL";
 
 document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
+<h1>DNA Features GL</h1>
 <div>
-  We use the same configuration as Parcel to bundle this sandbox, you can find more
-  info about Parcel 
-  <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
+descriptions
 </div>
 `;
