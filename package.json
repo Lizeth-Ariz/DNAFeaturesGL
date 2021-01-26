@@ -1,11 +1,7 @@
 {
   "name": "DNAFeaturesGL",
   "version": "0.0.1",
-  "description": [
-    "Graphical library that allows to facilitate the drawing",
-    "of genetic elements (graphical representation) by means of its functions.",
-    "Some of these elements: Gene, Operon, Terminator, Riboswitch."
-  ],
+  "description": "Graphical library that allows to facilitate the drawing of genetic elements (graphical representation) by means of its functions. Some of these elements: Gene, Operon, Terminator, Riboswitch.",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
