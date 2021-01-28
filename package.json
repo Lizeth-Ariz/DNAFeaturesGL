@@ -1,6 +1,6 @@
 {
   "name": "DNAFeaturesGL",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Graphical library that allows to facilitate the drawing of genetic elements (graphical representation) by means of its functions. Some of these elements: Gene, Operon, Terminator, Riboswitch.",
   "main": "index.html",
   "scripts": {
@@ -8,13 +8,17 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "@svgdotjs/svg.js": "3.0.16"
+    "@svgdotjs/svg.js": "3.0.16",
+    "dnafeaturesgl": "0.0.1"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
   },
-  "git repository": "https://github.com/Lizeth-Ariz/DNAFeaturesGL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lizeth-Ariz/DNAFeaturesGL"
+  },
   "keywords": [
     "javascript",
     "genetic-elements",
@@ -27,6 +31,6 @@
     "promoter",
     "draw"
   ],
-  "author": "Lizeth Arizmendi <liz.arizmendi13@gmail.com>, Gabriel Alarcón <galarcon@ccg.unam.mx>",
+  "contributors": "Lizeth Arizmendi <liz.arizmendi13@gmail.com>, Gabriel Alarcón <galarcon@ccg.unam.mx>",
   "license": "MIT"
 }
